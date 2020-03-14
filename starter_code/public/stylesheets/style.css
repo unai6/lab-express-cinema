@@ -8,30 +8,26 @@ a {
 .background-popcorn {
   background: url("https://drive.google.com/uc?export=download&id=1AgO7082KJeuXPARWwhiJNLU0he2_MRIc") no-repeat center center;
   height: 100vh;
-  width: 100vw; 
-  position:relative;
-  
- }
+  width: 100vw;
+  position: relative; }
 
+.one-title {
+  color: white;
+  position: absolute;
+  top: 140px;
+  right: 400px; }
 
- .one-title{
-   color:white;
-   position:absolute;
-   top:140px;
-   right:400px;
- }
-
- .my-button{
+.my-button {
   height: 5vh;
   width: 20vh;
   border-radius: 10px;
   position: absolute;
   bottom: 480px;
   left: 800px;
-  color:white;
- }
+  color: white; }
 
- .my-button:hover{
-  color:white;
-  text-decoration: none;
- }
+.my-button:hover {
+  color: white;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
